@@ -1,0 +1,7 @@
+github/
+*.log
+pnpm-lock.yaml
+.DS_Store
+.vscode/
+Thumbs.db
+yarn.lock
